@@ -113,14 +113,6 @@ DEFAULT_LANG = "ja"
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
 # the path will be used as a prefix for the generated pages location
-#TRANSLATIONS = {
-#    DEFAULT_LANG: "./ja",
-#    "en": "./en",
-#}
-
-#TRANSLATIONS = {
-#    DEFAULT_LANG: "./ja",
-#}
 
 TRANSLATIONS = {
     DEFAULT_LANG: "",
@@ -162,50 +154,6 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
-
-"""
-NAVIGATION_LINKS = {
-    DEFAULT_LANG: (
-    #"ja": (
-        ('/ja/index.html', '🏠'),
-        (        
-            (
-                #('/ja/hamilton/introduction/', '導入'),
-                ('/ja/hamilton/city/', '市'),
-                ('/ja/hamilton/bus/', 'バス'),
-                ('/ja/hamilton/train/', '電車'),
-                ('/ja/hamilton/shop/', '買い物'),                
-            ),
-            'ハミルトン'
-        ),
-        ("/ja/uni/waikato-uni/", "ワイカト大学"),
-        ("/ja/english/english-course/", "英語コース"),
-        ("/ja/travel/travel/", "旅行"),
-        ("/ja/download/", "ダウンロード"),
-        ("/ja/about/", "詳細"),
-    ),    
-
-    "en": (
-        ('/en/index.html', '🏠'),
-        (
-            (
-                # ('/en/hamilton/introduction/', 'Introduction'),
-                ('/en/hamilton/city/', 'City'),
-                ('/en/hamilton/bus/', 'Bus'),
-                ('/en/hamilton/train/', 'Train'),
-                ('/en/hamilton/shop/', 'Shopping'),
-            ),
-            'Hamilton'
-        ),
-        ("/en/uni/waikato-uni/", "Waikato University"),
-        ("/en/english/english-course/", "English Course"),
-        ("/en/travel/travel/", "Travel"),        
-        ("/en/download/", "Download"),
-        ("/en/about/", "About"),
-    ),
-}
-"""
-
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/index.html', '🏠'),
@@ -225,27 +173,6 @@ NAVIGATION_LINKS = {
         ("/about/", "詳細"),
     ),
 }
-
-
-"""
-    "en": (
-        ('/en/index.html', '🏠'),
-        (        
-            (
-                ('/en/dog/dog-puppy/', 'Puppy'),
-                ('/en/dog/dog-black/', 'Black Dog'),
-                ('/en/dog/dog-white/', 'White Dog'),
-                ('/en/dog/dog-spot/', 'Spotty Dog'),
-            ),
-            'Dogs'
-        ),
-        ("/en/cat/cat/", "Cat"),
-        ("/en/bird/bird/", "Bird"),
-        ("/en/mouse/mouse/", "Mouse"),
-        ("/en/download/", "Download"),
-        ("/en/about/", "About"),
-    ),  
-"""
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
