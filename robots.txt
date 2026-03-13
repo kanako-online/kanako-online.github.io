@@ -1,4 +1,4 @@
-Sitemap: https://kanako-web.github.io/sitemapindex.xml
+Sitemap: https://kanako-online.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: kanako-web.github.io
+Host: kanako-online.github.io
