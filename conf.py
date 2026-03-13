@@ -30,7 +30,7 @@ import time
 # Data about this site
 BLOG_AUTHOR = "Kanako"  # (translatable)
 #BLOG_TITLE = {"ja": "カナコ - 動物", "en": "Kanako - Animals", } # (translatable)
-BLOG_TITLE = "カナコ - 動物" # "Kanako - Animals 
+BLOG_TITLE = "カナコ - 動物" # <-- Kanako - Animals 
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://kanako-online.github.io/"
@@ -107,8 +107,8 @@ BLOG_DESCRIPTION = "Kanako's website on Github. Animals in Japanese only"  # (tr
 # in the default language will be shown instead.
 
 # What is the default language?
-#DEFAULT_LANG = "ja"
-DEFAULT_LANG = "en"
+DEFAULT_LANG = "ja"
+#DEFAULT_LANG = "en"
 
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
