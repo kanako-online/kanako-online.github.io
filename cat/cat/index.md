@@ -25,7 +25,3 @@ hidetitle: false
         <p>これは子猫たちのキャプションです</p>
     </figcaption>
 </figure>
-
-
-
-
