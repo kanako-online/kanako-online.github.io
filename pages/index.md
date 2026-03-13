@@ -13,10 +13,10 @@ hidetitle: false
 
 これはこれらの動物に関する情報が掲載されているカナコのウェブサイトです
 
-* [犬](/ja/dog/dog-puppy)
-* [猫](/ja/cat/cat)
-* [鳥](/ja/bird/bird)
-* [ねずみ](/ja/mouse/mouse)
+* [犬](/dog/dog-puppy)
+* [猫](/cat/cat)
+* [鳥](/bird/bird)
+* [ねずみ](/mouse/mouse)
 
 
 <!--
