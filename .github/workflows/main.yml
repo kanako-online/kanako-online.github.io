@@ -8,7 +8,7 @@ on: [push]
 jobs:
   nikola_build:
     runs-on: ubuntu-latest
-    #permissions:
+    permissions: write-all
     #  contents: read
     #  issues: write    
     name: 'Deploy Nikola to GitHub Pages'
