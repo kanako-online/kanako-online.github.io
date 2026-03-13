@@ -107,8 +107,8 @@ BLOG_DESCRIPTION = "Kanako's website on Github. Animals with Japanese only"  # (
 # in the default language will be shown instead.
 
 # What is the default language?
-DEFAULT_LANG = "ja"
-#DEFAULT_LANG = ""
+#DEFAULT_LANG = "ja"
+DEFAULT_LANG = ""
 
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
