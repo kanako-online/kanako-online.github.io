@@ -8,9 +8,9 @@ on: [push]
 jobs:
   nikola_build:
     runs-on: ubuntu-latest
-    #permissions:
-    #  contents: read
-    #  issues: write    
+    permissions:
+      contents: read
+      issues: write    
     name: 'Deploy Nikola to GitHub Pages'
     steps:
     - name: Check out
