@@ -2,6 +2,8 @@
 # .github/workflows/main.yml
 # 2025-03-06 actions/checkout at v4, nikola-actoin at v8
 # Needs: Settings --> Actions --> General --> Workflow Permissions. Check Read and write permissions 
+# Can not be changed when github account is an organization. Need to force write permission in
+# this main.yml file. i.e. paermissions: write-all
 
 on: [push]
 
