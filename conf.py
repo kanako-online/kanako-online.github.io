@@ -159,6 +159,7 @@ NAVIGATION_LINKS = {
         ('/index.html', '🏠'),
         (        
             (
+                ('/dog/dog-introduction/', '犬について'),                
                 ('/dog/dog-puppy/', '子犬'),
                 ('/dog/dog-black/', 'ブラックドッグ'),
                 ('/dog/dog-white/', 'ホワイトドッグ'),
