@@ -28,10 +28,13 @@ hidetitle: false
 </figure>
 
 </br>
+
 最初の画像のマークダウンは... <!-- Markdown for the first image is... -->
-```Markdown
+
+```markdown
 ![mouse image](/images/mouse/mouse.jpg)
 ```
+
 2枚目の画像のHTMLは… <!-- HTML for the second image is... -->
 
 ```html
