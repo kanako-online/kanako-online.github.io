@@ -12,4 +12,4 @@ hidetitle: false
 <!-- This is information about a mouse that liked icecream. The mouse looked like this... -->
 これはアイスクリーム好きのネズミについての情報です。そのネズミはこんな感じでした…。
 
-![mouse picture](/images/mouse/mouse.jpg)(width=300)
+![mouse picture](/images/mouse/mouse.jpg){width=300}
