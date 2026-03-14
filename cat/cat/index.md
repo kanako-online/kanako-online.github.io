@@ -13,13 +13,13 @@ hidetitle: false
 
 <!--Add image using markdown -->
 以下はMarkdownを使って表示された猫の写真です。マウスオーバーするとキャプションが表示されます。
-!![cat picture](/images/cat/cat.jpeg "これは猫の写真です。")
+!![cat picture](/images/cat/cat.jpg "これは猫の写真です。")
 
 <!-- Add Image using and html figure. This provides a caption. -->
 以下はHTMLの図を使って表示された子猫たちです。図にはキャプションを付けることができます。
 <figure class="align-center">
     <img alt="子猫たち" 
-        src="/images/cat/kitten.jpeg" 
+        src="/images/cat/kitten.jpg" 
         style="width: 400px;">
     <figcaption>
         <p>これは子猫たちのキャプションです</p>
