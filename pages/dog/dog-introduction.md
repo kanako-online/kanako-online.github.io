@@ -1,5 +1,5 @@
 ---
-title: 犬
+title: 犬について
 slug: dog-introduction
 date: 2025-04-14 08:00:00 UTC+09:00
 tags: 
@@ -9,6 +9,8 @@ type: text
 hidetitle: false
 ---
 <!--
+Introduction to Dogs = 犬について
+
 Introduction to information on different dogs.
 
 Information is provided on the following dogs:
