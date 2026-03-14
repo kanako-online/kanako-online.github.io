@@ -9,4 +9,7 @@ type: text
 hidetitle: false
 ---
 
-斑点のある犬に関する情報はここに記載します...
+<!-- This is a dog with spots... -->
+ これは斑点のある犬です…
+
+ ![dog-spot](/images/dog/dog-spot.jpg)
