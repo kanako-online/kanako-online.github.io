@@ -9,5 +9,7 @@ type: text
 hidetitle: false
 ---
 
-白い犬に関する情報はここに記載します...
-
+ <!-- This is a white dog... -->
+ これは白い犬です…
+ 
+![dog-white](/images/dog/dog-white.jpg)
