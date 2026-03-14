@@ -9,4 +9,7 @@ type: text
 hidetitle: false
 ---
 
-子犬に関する情報はここに記載します...
+<!-- This is a puppy dog... -->
+これは子犬です…
+
+![dog-puppy](/images/dog/dog-puppy.jpg)
