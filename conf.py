@@ -163,7 +163,7 @@ NAVIGATION_LINKS = {
                 ('/dog/dog-puppy/', '子犬'),
                 ('/dog/dog-black/', 'ブラックドッグ'),
                 ('/dog/dog-white/', 'ホワイトドッグ'),
-                ('/dog/dog-spot/', 'スポッティ・ドッグ'),
+                ('/dog/dog-spot/', '斑点のある犬'),
             ),
             '犬'
         ),
