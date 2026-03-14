@@ -11,18 +11,11 @@ hidetitle: false
 
 # カナコ
 
-これはこれらの動物に関する情報が掲載されているカナコのウェブサイトです
+<!-- This is Kanako's website, which contains information about these animals: -->
+これはこれらの動物に関する情報が掲載されているカナコのウェブサイトです。
 
-* [犬](/dog/dog-puppy)
+* [犬](/dog/dog-introduction)
 * [猫](/cat/cat)
 * [鳥](/bird/bird)
 * [ねずみ](/mouse/mouse)
 
-
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➡️](/ja/book/introduction/)
-<hr>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[➡️](/ja/book/introduction/)
-
-
--->
