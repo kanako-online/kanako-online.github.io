@@ -91,7 +91,25 @@ bg-dark
     </header><div class="e-content entry-content" itemprop="articleBody text">
     <!-- This is information about a mouse that liked icecream. The mouse looked like this... -->
 <p>これはアイスクリーム好きのネズミについての情報です。そのネズミはこんな感じでした…。</p>
-<p><img alt="mouse picture" src="../../images/mouse/mouse.jpg" width="300"></p>
+<p><img alt="mouse image" src="../../images/mouse/mouse.jpg"></p>
+<!-- To reduce the size of the mouse image, center the image and add a caption, use html instead of markdown... -->
+<p>マウスカーソルのサイズを小さくし、画像を中央に配置してキャプションを追加するには、マークダウンではなくHTMLを使用してください。</p>
+<figure class="align-center"><img alt="ねずみ" src="../../images/mouse/mouse.jpg" style="width: 300px;"><figcaption><p>アイスクリームを食べるネズミ。</p> <!--Mouse eating icecream -->
+    </figcaption></figure><p>
+最初の画像のマークダウンは... <!-- Markdown for the first image is... --></p>
+<div class="code"><pre class="code literal-block">![<span class="nt">mouse image</span>](<span class="na">/images/mouse/mouse.jpg</span>)
+</pre></div>
+
+<p>2枚目の画像のHTMLは… <!-- HTML for the second image is... --></p>
+<div class="code"><pre class="code literal-block"><span class="p">&lt;</span><span class="nt">figure</span> <span class="na">class</span><span class="o">=</span><span class="s">"align-center"</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">img</span> <span class="na">alt</span><span class="o">=</span><span class="s">"ねずみ"</span> 
+        <span class="na">src</span><span class="o">=</span><span class="s">"/images/mouse/mouse.jpg"</span> 
+        <span class="na">style</span><span class="o">=</span><span class="s">"width: 300px;"</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">figcaption</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;</span>アイスクリームを食べるネズミ。<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span> <span class="cm">&lt;!--Mouse eating icecream --&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">figcaption</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">figure</span><span class="p">&gt;</span>
+</pre></div>
     </div>
     
 
