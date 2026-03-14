@@ -9,4 +9,7 @@ type: text
 hidetitle: false
 ---
 
-鳥に関する情報はここに記載します...
+<!-- This little bird lives in New Zealand and it is called a fantail -->
+この小さな鳥はニュージーランドに生息しており、オウギビタキと呼ばれています。
+
+![fantail image](/images/bird/bird.jpg)
