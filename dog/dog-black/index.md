@@ -10,3 +10,8 @@ hidetitle: false
 ---
 
 黒い犬に関する情報はここに記載します...
+
+<!-- This is a black dog... -->
+これは黒い犬です…
+
+![dog-black](/images/dog/dog-black.jpg)
