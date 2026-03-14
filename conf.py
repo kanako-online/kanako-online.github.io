@@ -162,7 +162,7 @@ NAVIGATION_LINKS = {
                 ('/dog/dog-introduction/', '犬について'),                
                 ('/dog/dog-puppy/', '子犬'),
                 ('/dog/dog-black/', 'ブラックドッグ'),
-                ('/dog/dog-white/', 'ホワイトドッグ'),
+                ('/dog/dog-white/', '白い犬'),
                 ('/dog/dog-spot/', '斑点のある犬'),
             ),
             '犬'
